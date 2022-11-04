@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasuto2002&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasuto2002&theme=synthwave)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasuto2002&show_icons=true)
  
